@@ -1,0 +1,4 @@
+interface:
+  display_name: "Coordinated Efficient Contact Research"
+  short_description: "Verified roster contact research at scale"
+  default_prompt: "Use $coordinated-efficient-contact-research to research this organization roster with efficient workers, evidence checks, and resumable outputs."
